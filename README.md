@@ -1,6 +1,7 @@
-# Instagram MCP Server
-
+gnay_hs@gmail.com# Instagram MCP Server
+hackistangram
 A Model Context Protocol (MCP) server for fetching Instagram posts using Chrome's existing login session.
+![IMG_20250717_123020](https://github.com/user-attachments/assets/860b0df0-c194-451b-a182-68ed4b618e8a)
 
 ## Features
 
